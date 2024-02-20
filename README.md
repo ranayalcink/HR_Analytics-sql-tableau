@@ -40,6 +40,9 @@ In this data analysis project, the business problem revolves around unraveling i
 
 As a data analyst, this project equips stakeholders with actionable insights to inform strategic decision-making. By harnessing the power of SQL queries and a versatile stored procedure, we not only answer predefined questions but also empower users to explore the data autonomously. This approach aligns with the principles of data-driven decision-making, fostering a more inclusive and informed organizational culture.
 
+## Tableau Dashboard
+In addition to the SQL analyses, a Tableau dashboard was created to visually represent the key insights derived from the SQL queries. The dashboard provides an interactive and user-friendly interface for stakeholders to explore the data visually. It complements the SQL-driven analysis by offering a dynamic and intuitive way to interpret the findings.
+
 ## Conclusion
 
 The SQL portfolio project exemplifies the value of leveraging data analytics to address real-world business challenges. Through thoughtful analysis and visualization, we have provided a lens into workforce dynamics, leadership structures, and salary trends. As a data analyst, this project reflects a commitment to delivering actionable insights that drive positive change within the organization.
