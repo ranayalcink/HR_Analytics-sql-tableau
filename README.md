@@ -6,6 +6,20 @@
 
 In this data analysis project, the business problem revolves around unraveling intricate patterns within the company's employee database. Key objectives include understanding workforce demographics, managerial structures, and discerning potential gender-based salary disparities.
 
+**Used skills:**
+
+- SQL Querying
+- Data Analysis
+- Data Visualization (Tableau)
+- Stored Procedure Development
+- Database Management
+- Data Aggregation
+- Conditional Logic
+- Dynamic Parameterization
+- Problem Solving
+- Tableau Dashboard Development
+- Interactive Data Exploration
+
 ## Technical Approach
 
 ### Chart 1: Gender Breakdown Over Time
